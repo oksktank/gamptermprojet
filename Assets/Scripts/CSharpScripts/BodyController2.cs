@@ -143,7 +143,7 @@ public class BodyController2 : MonoBehaviour {
 
 		
 		
-		if(Input.GetKeyDown(KeyCode.I))
+		if(Input.GetKeyDown(KeyCode.W))
 		{
 			if(useQueuedAnim)
 			{
@@ -153,7 +153,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (BD, 0.4f);
 			}
 		}
-		else if(Input.GetKeyDown(KeyCode.K))
+		else if(Input.GetKeyDown(KeyCode.S))
 		{
 			if(useQueuedAnim)
 			{
@@ -163,7 +163,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (FD, 0.4f);
 			}
 		}
-		else if(Input.GetKeyDown(KeyCode.J))
+		else if(Input.GetKeyDown(KeyCode.A))
 		{
 			if(useQueuedAnim)
 			{
@@ -173,7 +173,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (LD, 0.4f);
 			}
 		}
-		else if(Input.GetKeyDown(KeyCode.L))
+		else if(Input.GetKeyDown(KeyCode.D))
 		{
 			if(useQueuedAnim)
 			{
@@ -183,8 +183,9 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (RD, 0.4f);
 			}
 		}
+
 		
-		if(Input.GetKeyUp(KeyCode.I))
+		if(Input.GetKeyUp(KeyCode.W))
 		{
 			if(useQueuedAnim)
 			{
@@ -194,7 +195,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (BU, 0.4f);
 			}
 		}
-		else if(Input.GetKeyUp(KeyCode.K))
+		else if(Input.GetKeyUp(KeyCode.S))
 		{
 			if(useQueuedAnim)
 			{
@@ -204,7 +205,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (FU, 0.4f);
 			}
 		}
-		else if(Input.GetKeyUp(KeyCode.J))
+		else if(Input.GetKeyUp(KeyCode.A))
 		{
 			if(useQueuedAnim)
 			{
@@ -214,7 +215,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (LU, 0.4f);
 			}
 		}
-		else if(Input.GetKeyUp(KeyCode.L))
+		else if(Input.GetKeyUp(KeyCode.D))
 		{
 			if(useQueuedAnim)
 			{

@@ -285,6 +285,7 @@ function Controle () {
 		maxTorque = mT;
 	}
 	
+	
 	if(colflag >= 1)
 	{
 		maxTorque = 0;
@@ -293,8 +294,8 @@ function Controle () {
 		colflag++;
 		if(colflag > 7)
 		{	
-			gogo = -100f;
-			maxTorque = 1000;
+			//gogo = -1f;
+			//maxTorque = 1000;
 		}
 		if(colflag == 20)
 		{
@@ -310,6 +311,7 @@ function Controle () {
 			}
 		}
 	}
+	
 	
 	if(itemCnt3 > 0) maxTorque = 0;
 	
