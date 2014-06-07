@@ -293,7 +293,7 @@ function Controle () {
 		colflag++;
 		if(colflag > 7)
 		{	
-			gogo = -1f;
+			gogo = -100f;
 			maxTorque = 1000;
 		}
 		if(colflag == 20)
