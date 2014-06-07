@@ -138,6 +138,7 @@ public class BodyController2 : MonoBehaviour {
 			}
 
 		}
+
 	
 /////////////////////////////////////////////////	
 
