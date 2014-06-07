@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\itemSound.js">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\itemSound.js" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="578" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript2.js" Line="548" Column="17" />
+      <File FileName="Assets\Scripts\CSharpScripts\Congrat.cs" Line="144" Column="18" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem.js" Line="58" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem2.js" Line="62" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\getItem2.js">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="400" Column="20" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript2.js" Line="486" Column="17" />
+      <File FileName="Assets\Scripts\Menu\SelTMode.cs" Line="112" Column="12" />
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="26" Column="17" />
+      <File FileName="Assets\Scripts\CSharpScripts\ItemBoxController.cs" Line="22" Column="12" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem.js" Line="316" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem2.js" Line="304" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\RealRacing.js" Line="143" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CSharpScripts" expanded="True" />
+                <Node name="Menu" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="JavaScripts" expanded="True">
+                  <Node name="getItem2.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

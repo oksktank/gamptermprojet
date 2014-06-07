@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\SelCart.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menu\SelCart.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\Menu\SelChar.cs" Line="180" Column="1" />
+      <File FileName="Assets\Scripts\Menu\PlayControl.cs" Line="72" Column="4" />
+      <File FileName="Assets\Scripts\Menu\ColorSet.cs" Line="20" Column="21" />
+      <File FileName="Assets\Scripts\Menu\SelMap.cs" Line="96" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

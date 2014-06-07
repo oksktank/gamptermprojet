@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\WaypointSystem.js">
+    <Files>
+      <File FileName="Assets\Scripts\CSharpScripts\optioncontroller.cs" Line="79" Column="28" />
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="13" Column="33" />
+      <File FileName="Assets\Scripts\CSharpScripts\FinishRace.cs" Line="32" Column="16" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem.js" Line="237" Column="4" />
+      <File FileName="Assets\Scripts\JavaScripts\RealRacing.js" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\CSharpScripts\Single_FinishRace.cs" Line="42" Column="15" />
+      <File FileName="Assets\Scripts\JavaScripts\Single_RealRacing.js" Line="128" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\Single_readygo.js" Line="19" Column="25" />
+      <File FileName="Assets\Scripts\JavaScripts\Single_CarControlScript.js" Line="272" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript2.js" Line="253" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\WaypointSystem.js" Line="238" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

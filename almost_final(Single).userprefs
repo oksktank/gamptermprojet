@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CSharpScripts\optioncontroller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\WaypointSystem.js" Line="229" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem.js" Line="241" Column="4" />
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem2.js" Line="194" Column="4" />
+      <File FileName="Assets\Scripts\JavaScripts\timeDisplay.js" Line="69" Column="16" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="331" Column="4" />
+      <File FileName="Assets\Scripts\Menu\OptionControl.cs" Line="30" Column="13" />
+      <File FileName="Assets\Scripts\CSharpScripts\optioncontroller.cs" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

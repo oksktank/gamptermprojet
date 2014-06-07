@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CSharpScripts\BodyController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="23" Column="20" />
+      <File FileName="Assets\Scripts\JavaScripts\readygo.js" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\RealRacing.js" Line="188" Column="1" />
+      <File FileName="Assets\Scripts\Menu\rankcontrol.cs" Line="14" Column="27" />
+      <File FileName="Assets\Scripts\Menu\rstRankControl.cs" Line="144" Column="3" />
+      <File FileName="Assets\Scripts\Menu\SelMap.cs" Line="15" Column="14" />
+      <File FileName="Assets\Scripts\JavaScripts\timeDisplay.js" Line="24" Column="1" />
+      <File FileName="Assets\Scripts\CSharpScripts\BodyController.cs" Line="139" Column="10" />
+      <File FileName="Assets\Scripts\CSharpScripts\optioncontroller.cs" Line="61" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="179" Column="9" />
+      <File FileName="Assets\Scripts\CSharpScripts\Controller.cs" Line="27" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

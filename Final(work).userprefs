@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\SelMap.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CSharpScripts\CoinControl.cs" Line="27" Column="3" />
+      <File FileName="Assets\Scripts\Menu\rankcontrol.cs" Line="270" Column="5" />
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="22" Column="17" />
+      <File FileName="Assets\Scripts\Menu\SelTMode.cs" Line="67" Column="22" />
+      <File FileName="Assets\Scripts\JavaScripts\noteTutorial.js" Line="41" Column="2" />
+      <File FileName="Assets\Scripts\CSharpScripts\CoinManager1.cs" Line="6" Column="11" />
+      <File FileName="Assets\Scripts\Menu\SelCart.cs" Line="207" Column="4" />
+      <File FileName="Assets\Scripts\Menu\SelChar.cs" Line="220" Column="15" />
+      <File FileName="Assets\Scripts\Menu\SelMap.cs" Line="58" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CSharpScripts" expanded="True" />
+                <Node name="Menu" expanded="True">
+                  <Node name="SelMap.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="JavaScripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

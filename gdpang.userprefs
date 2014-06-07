@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\RealRacing.js">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\WaypointSystem.js" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="81" Column="2" />
+      <File FileName="Assets\Scripts\Menu\PlayControl.cs" Line="20" Column="11" />
+      <File FileName="Assets\Scripts\Menu\rstRankControl.cs" Line="243" Column="4" />
+      <File FileName="Assets\Scripts\JavaScripts\timeDisplay.js" Line="41" Column="21" />
+      <File FileName="Assets\Scripts\JavaScripts\RealRacing.js" Line="199" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\MenuControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="32" Column="4" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="297" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript2.js" Line="293" Column="4" />
+      <File FileName="Assets\Scripts\JavaScripts\timeDisplay.js" Line="23" Column="28" />
+      <File FileName="Assets\Scripts\JavaScripts\readygo.js" Line="13" Column="29" />
+      <File FileName="Assets\Scripts\JavaScripts\RealRacing.js" Line="73" Column="10" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem.js" Line="267" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\getItem2.js" Line="209" Column="2" />
+      <File FileName="Assets\Scripts\JavaScripts\noteHelp.js" Line="103" Column="20" />
+      <File FileName="Assets\Scripts\Menu\MenuControl.cs" Line="116" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

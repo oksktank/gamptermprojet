@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CSharpScripts\StartController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menu\SelTMode.cs" Line="60" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\WaypointSystem.js" Line="236" Column="13" />
+      <File FileName="Assets\Scripts\CSharpScripts\StartController.cs" Line="115" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="143" Column="19" />
+      <File FileName="Assets\Scripts\JavaScripts\RealRacing.js" Line="450" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CSharpScripts" expanded="True">
+                  <Node name="StartController.cs" selected="True" />
+                </Node>
+                <Node name="Menu" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="JavaScripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

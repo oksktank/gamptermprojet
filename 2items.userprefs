@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\CarControlScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="22" Column="19" />
+      <File FileName="Assets\Scripts\JavaScripts\SkiddingScript2.js" Line="20" Column="21" />
+      <File FileName="Assets\Scripts\JavaScripts\SkiddingScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\timeDisplay.js" Line="35" Column="21" />
+      <File FileName="Assets\Scripts\JavaScripts\readygo.js" Line="11" Column="23" />
+      <File FileName="Assets\Scripts\JavaScripts\WaypointSystem.js" Line="142" Column="24" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript2.js" Line="52" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

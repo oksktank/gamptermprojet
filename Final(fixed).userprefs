@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\noteHelp.js">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\noteHelp.js" Line="184" Column="13" />
+      <File FileName="Assets\Scripts\CSharpScripts\Controller.cs" Line="7" Column="24" />
+      <File FileName="Assets\Scripts\JavaScripts\CarControlScript.js" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\CSharpScripts\Controller2.cs" Line="210" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
