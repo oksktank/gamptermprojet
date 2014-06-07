@@ -1,13 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Leap Motion/Scenes Pack/Scripts/Leap Scenes/Flying/LeapFly.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JavaScripts/CarControlScript.js">
     <Files>
-      <File FileName="Assets/Leap Motion/Leap Controller/Scripts/Hand Types/HandTypeRigged.cs" Line="82" Column="25" />
       <File FileName="Assets/Scripts/CSharpScripts/BallController.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/CSharpScripts/BallController2.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CSharpScripts/BodyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CSharpScripts/BodyController.cs" Line="21" Column="18" />
       <File FileName="Assets/Scripts/Menu/Camera.js" Line="1" Column="1" />
-      <File FileName="Assets/Leap Motion/Scenes Pack/Scripts/Leap Scenes/Flying/LeapFly.cs" Line="93" Column="1" />
+      <File FileName="Assets/Scripts/CSharpScripts/CarController.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/JavaScripts/CarControlScript.js" Line="296" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
