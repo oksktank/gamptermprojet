@@ -1,10 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
-
 public class BodyController2 : MonoBehaviour {
-	
 	public bool useQueuedAnim = false;
-	
 	readonly string LD = "Hleftdown";
 	readonly string LU = "Hleftup";
 	readonly string RD = "Hrightdown";
@@ -17,11 +14,9 @@ public class BodyController2 : MonoBehaviour {
 	readonly string RS = "Hrightswing";
 	readonly string LSB = "Hleftswingback";
 	readonly string RSB = "Hrightswingback";
-
 	GameObject Car2;
 	string test;
 	int flag1, flag2, flag3, flag4;
-	
 	// Use this for initialization
 	void Start () {
 		animation[LD].wrapMode = WrapMode.ClampForever;
@@ -38,18 +33,25 @@ public class BodyController2 : MonoBehaviour {
 		animation[RSB].wrapMode = WrapMode.ClampForever;
 		Car2 = GameObject.Find ("Controller");
 	}
-	
 	// Update is called once per frame
 	void Update () {
-		
-		
-		
-/////////////////////////////////////////////////
-		test = Car2.GetComponent<Controller>().direction2;		
+		/////////////////////////////////////////////////
+		test = Car2.GetComponent<Controller>().direction2; 
 		if(test.Length > 0)
 		{
 			if(test[0] == 'F')// && flag1 == 0)
 			{
+				if(flag2 == 1)
+				{
+					flag2 = 0;
+					if(useQueuedAnim)
+					{
+						animation.CrossFadeQueued (FU, 0.4f, QueueMode.PlayNow);
+					}
+					else{
+						animation.CrossFade (FU, 0.4f);
+					}
+				}
 				flag1 = 1;
 				if(useQueuedAnim)
 				{
@@ -57,10 +59,21 @@ public class BodyController2 : MonoBehaviour {
 				}
 				else{
 					animation.CrossFade (BD, 0.4f);
-				}	
+				} 
 			}
 			else if(test[0] == 'B')// && flag2 == 0)
 			{
+				if(flag1 == 1)
+				{
+					flag1 = 0;
+					if(useQueuedAnim)
+					{
+						animation.CrossFadeQueued (BU, 0.4f, QueueMode.PlayNow);
+					}
+					else{
+						animation.CrossFade (BU, 0.4f);
+					}
+				}
 				if(useQueuedAnim)
 				{
 					animation.CrossFadeQueued (FD, 0.4f, QueueMode.PlayNow);
@@ -91,9 +104,19 @@ public class BodyController2 : MonoBehaviour {
 					animation.CrossFade (FU, 0.4f);
 				}
 			}
-			
 			if(test[1] == 'L')// && flag3 == 0)
 			{
+				if(flag4 == 1)
+				{
+					flag4 = 0;
+					if(useQueuedAnim)
+					{
+						animation.CrossFadeQueued (RU, 0.4f, QueueMode.PlayNow);
+					}
+					else{
+						animation.CrossFade (RU, 0.4f);
+					}
+				}
 				flag3 = 1;
 				if(useQueuedAnim)
 				{
@@ -105,6 +128,17 @@ public class BodyController2 : MonoBehaviour {
 			}
 			else if(test[1] == 'R')// && flag4 == 0)
 			{
+				if(flag3 == 1)
+				{
+					flag3 = 0;
+					if(useQueuedAnim)
+					{
+						animation.CrossFadeQueued (LU, 0.4f, QueueMode.PlayNow);
+					}
+					else{
+						animation.CrossFade (LU, 0.4f);
+					}
+				}
 				flag4 = 1;
 				if(useQueuedAnim)
 				{
@@ -136,15 +170,9 @@ public class BodyController2 : MonoBehaviour {
 					animation.CrossFade (RU, 0.4f);
 				}
 			}
-
 		}
-
-	
-/////////////////////////////////////////////////	
-
-		
-		
-		if(Input.GetKeyDown(KeyCode.W))
+		/////////////////////////////////////////////////
+		if(Input.GetKeyDown(KeyCode.I))
 		{
 			if(useQueuedAnim)
 			{
@@ -154,7 +182,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (BD, 0.4f);
 			}
 		}
-		else if(Input.GetKeyDown(KeyCode.S))
+		else if(Input.GetKeyDown(KeyCode.K))
 		{
 			if(useQueuedAnim)
 			{
@@ -164,7 +192,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (FD, 0.4f);
 			}
 		}
-		else if(Input.GetKeyDown(KeyCode.A))
+		else if(Input.GetKeyDown(KeyCode.J))
 		{
 			if(useQueuedAnim)
 			{
@@ -174,7 +202,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (LD, 0.4f);
 			}
 		}
-		else if(Input.GetKeyDown(KeyCode.D))
+		else if(Input.GetKeyDown(KeyCode.L))
 		{
 			if(useQueuedAnim)
 			{
@@ -184,9 +212,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (RD, 0.4f);
 			}
 		}
-
-		
-		if(Input.GetKeyUp(KeyCode.W))
+		if(Input.GetKeyUp(KeyCode.I))
 		{
 			if(useQueuedAnim)
 			{
@@ -196,7 +222,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (BU, 0.4f);
 			}
 		}
-		else if(Input.GetKeyUp(KeyCode.S))
+		else if(Input.GetKeyUp(KeyCode.K))
 		{
 			if(useQueuedAnim)
 			{
@@ -206,7 +232,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (FU, 0.4f);
 			}
 		}
-		else if(Input.GetKeyUp(KeyCode.A))
+		else if(Input.GetKeyUp(KeyCode.J))
 		{
 			if(useQueuedAnim)
 			{
@@ -216,7 +242,7 @@ public class BodyController2 : MonoBehaviour {
 				animation.CrossFade (LU, 0.4f);
 			}
 		}
-		else if(Input.GetKeyUp(KeyCode.D))
+		else if(Input.GetKeyUp(KeyCode.L))
 		{
 			if(useQueuedAnim)
 			{
